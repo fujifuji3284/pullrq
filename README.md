@@ -1,2 +1,2 @@
-pullrq
+Pull Request practice
 ======
